@@ -1,0 +1,7 @@
+Calculo del Digito Validador del RUT (Rol Único Tributario, Chile). 
+Compatible con Python2 y Python3
+Licencia: Public Domain
+Author: Daniel Aguayo Catalan <daniel_aguayo_catalan@lavabit.com>
+Basado en el código de Roberto Bonvallet[1], modificado para funcionar en Python2 y Python3
+
+[1] http://www.dcc.uchile.cl/~mortega/microcodigos/validarrut/python.html
