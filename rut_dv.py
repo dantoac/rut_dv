@@ -13,7 +13,7 @@ intención didáctica.
 """
 
 # El RUT como STRING desde entrada por teclado 
-rut_number = str(eval(repr(input())))
+rut_string = str(eval(repr(input())))
 
 rut = [number for number in rut_string][:8]# usa sólo los 8 primeros caracteres
 
